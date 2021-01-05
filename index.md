@@ -1,4 +1,4 @@
 
 <?
-Header("Location: http://https://weibo.com/dinglian");
+Header("Location: https://weibo.com/dinglian");
 ?>
